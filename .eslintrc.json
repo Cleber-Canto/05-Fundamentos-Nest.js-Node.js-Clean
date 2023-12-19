@@ -1,0 +1,10 @@
+{
+  "extends": ["@rocketseat/eslint-config/node"],
+  "rules": {
+    // Desativar a regra "no-useless-constructor"
+    "no-useless-constructor": "off",
+
+    // Desativar a regra "no-new"
+    "no-new": "off"
+  }
+}
